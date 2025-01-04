@@ -16,6 +16,6 @@ This project develops a predictive model to estimate property interactions using
 
 ## **Key Results**  
 - **Model Accuracy**: Achieved precise interaction predictions for the 3-day and 7-day windows.  
-- **Feature Insights**: Identified key drivers such as property locality, rent, and photo counts.  
-- **Enhanced Features**: Successfully extracted photo counts by correcting corrupted JSON data.  
+- **Feature Insights**: Identified key drivers such as the number of rooms available, furnishing type, lease type, and parking.  
+- **Enhanced Features**: Successfully extracted photo counts by correcting corrupted JSON data and was used as a feature.  
 
