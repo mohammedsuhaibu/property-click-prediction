@@ -1,4 +1,4 @@
-# Property Click Prediction
+# Property Click Prediction Using Regression Techniques
 
 ## **Overview**  
 This project develops a predictive model to estimate property interactions using NoBroker's dataset. The study explores factors influencing interactions on properties, aiming to forecast user interactions within predefined timeframes.  
